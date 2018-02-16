@@ -1,0 +1,8 @@
+com\niit\proj2backend\App.class
+com\niit\model\User.class
+com\niit\configuration\DBConfiguration.class
+com\niit\configuration\WebAppConfig.class
+com\niit\dao\UserDao.class
+com\niit\configuration\WebAppInitializer.class
+com\niit\dao\UserDaoImpl.class
+com\niit\model\ErrorClazz.class
